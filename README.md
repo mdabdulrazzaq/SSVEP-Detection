@@ -1,1 +1,1 @@
-[Download the SSVEP PDF](ssvep.pdf)
+[Download the SSVEP PDF](SSVEP-Detection.pdf)
